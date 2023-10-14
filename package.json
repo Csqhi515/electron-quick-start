@@ -8,7 +8,7 @@
     "app:dir": "electron-builder --dir",
     "app:dist": "electron-builder"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/Csqhi515/electron-quick-start",
   "keywords": [
     "Electron",
     "quick",
